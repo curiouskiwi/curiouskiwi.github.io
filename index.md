@@ -1,3 +1,3 @@
 **CURIOUSKIWI**
 
-Coming soon.  Just trying out GitHub Pages.
+My [CS50x Help Page](/cs50x-help)
